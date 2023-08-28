@@ -1,0 +1,45 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.row{
+    display: flex;
+    width: auto;
+}
+.box1{
+    width: 50%;
+    padding-top: 200px;
+    padding-bottom: 100px;
+    padding-left: 150px;
+    padding-right: 100px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.box2{
+    display: block
+}
+.box3{
+    display: flex;
+    margin-top: 100px;
+    
+}
+.box4{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+}
+.box5{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.box6{
+    margin-left: 100px;
+    margin-right: 150px;
+}
+.box7{
+    margin-right: 100px;
+}
+.box8{
+    margin-left: 10px;
+    margin-right: 100px;
+}
